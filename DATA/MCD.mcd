@@ -1,0 +1,11 @@
+USER: code, firstname, lastname, pseudo, email
+POSSEDE, 0N USER, 11 BUILD
+:
+
+:
+BUILD: code, title, widget
+:
+
+:
+CONTIENT, 1N BUILD, 1N WIDGET
+WIDGET: code, widget, position, width, height

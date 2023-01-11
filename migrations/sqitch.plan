@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=gamerhelper
+
+init 2022-11-30T10:13:00Z Thomas-C-Icare <thomas.campo08@gmail.com> # creation des tables
+otp 2022-12-08T20:02:21Z Thomas-C-Icare <thomas.campo08@gmail.com> # creation otp for delete account
+refreshToken 2022-12-12T12:49:07Z Thomas-C-Icare <thomas.campo08@gmail.com> # Using refresh token system with JWT for more security on our data
